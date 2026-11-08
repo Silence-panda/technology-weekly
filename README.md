@@ -18,9 +18,7 @@ QQ 频道号：pd72124748
 ## 期数索引
 
 ### 2026 年 11 月
-- [科技速览20261108期](2026/11/2026-11-08-technology-news.md)
-- [开源精选20261108期](2026/11/2026-11-08-opensource.md)
-- [学习资源20261108期](2026/11/2026-11-08-study-resources.md)
+- [[科技速览20261108期](2026/11/2026-11-08-technology-news.md)](https://github.com/Silence-panda/technology-weekly/blob/main/tech-brief/Issue20261108[tech-brief].md)
 
 ## 关于
 
