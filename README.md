@@ -4,7 +4,7 @@
 
 QQ 频道号：pd72124748
 
-码云仓库地址：
+码云仓库地址：https://gitee.com/silence-panda_0/technology-weekly
 
 
 ## 栏目
