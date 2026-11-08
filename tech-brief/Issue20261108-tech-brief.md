@@ -15,7 +15,7 @@
 
 中国空间站的超冷原子实验柜把一团铷原子冷却到 9.7 皮开尔文，是目前已知最低的人造温度，比 2021 年德国团队的 38 pK 更低。团队用全光阱代替磁阱，靠微重力把原子云连续观察了 7 秒。论文 11 月 6 日发表在《Science》。
 
-![中国空间站超冷原子实验](../images/2026-11/1108-03-cold-atom.png)
+![中国空间站超冷原子实验](../images/2026-11/1108-03-cold-atom.jpg)
 
 来源：[中国新闻网 · 中国科学家打破人类低温纪录](https://www.cas.cn/cm/202611/t20261106_5123597.shtml)
 
@@ -23,7 +23,7 @@
 
 欧空局赫拉探测器 11 月 5 日从约 60 公里外拍下迪迪莫斯双小行星，第一次看清主星被 NASA DART 撞过、DART 没拍到的那一面。迪迪莫斯直径约 780 米，卫星迪莫弗斯约 151 米，两者相距约 1 公里。更细的图预计 11 月 25 日公布。
 
-![赫拉拍摄的迪迪莫斯](../images/2026-11/1108-02-hera.png)
+![赫拉拍摄的迪迪莫斯](../images/2026-11/1108-02-hera.jpg)
 
 来源：[ESA · Hera's first close-up view of Didymos asteroids](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids)
 
@@ -31,7 +31,7 @@
 
 Anthropic 11 月 4 日发布预印本，称用 Claude 解析出细菌和噬菌体穹窿体蛋白的第一个三维结构，蛋白家族从约 41 个扩到 1500 多个。提纯从 3 天缩到 90 分钟。穹窿体的功能仍不清楚；作者全是 Anthropic 员工，公司已申请临时专利。
 
-![穹窿体结构](../images/2026-11/1108-04-vault.png)
+![穹窿体结构](../images/2026-11/1108-04-vault.jpg)
 
 来源：[Anthropic · Investigating vault particles with Claude](https://www.anthropic.com/research/investigating-vault-particles-with-claude)（公司发布 + 预印本）
 
@@ -39,7 +39,7 @@ Anthropic 11 月 4 日发布预印本，称用 Claude 解析出细菌和噬菌�
 
 旅行者 1 号将在 11 月 18 日飞到距地球约 259 亿公里的位置，正好一光日，成为第一个离地球这么远的人造物。它 1977 年发射。从地面发指令要 24 小时才能到，它回话再等 24 小时，一来一回两天。旅行者 2 号要到 2035 年才到这条线。
 
-![旅行者 1 号](../images/2026-11/1108-01-voyager.png)
+![旅行者 1 号](../images/2026-11/1108-01-voyager.jpg)
 
 来源：[Futura-Sciences · How long does a radio signal take to reach Voyager 1 and back](https://www.futura-sciences.com/en/how-long-does-a-radio-signal-take-to-reach-voyager-1-and-back-once-it-is-a-light-day-away-nasa-answers_902240/)
 
